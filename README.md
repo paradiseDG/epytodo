@@ -16,6 +16,7 @@ EPYTODO
 access the server by running :
 
 MacOS / Linux : DEBUG=myapp:* npm start
+
 Windows : set DEBUG=myapp:* & npm start
 
 in any web browser, write http://localhost:3306/ to access the server.
